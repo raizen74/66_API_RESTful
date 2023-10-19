@@ -8,4 +8,4 @@ Build a REST API Service to make HTTP requests to a Coffee Shops SQLite Database
 - PATCH coffee price at a particular shop, given its database id.
 - DELETE a coffee shop from the database.
 
-**Cafe & Wifi** API RESTful [documentation](https://www.kaggle.com/competitions/competicioiimludg2023).
+**Cafe & Wifi** API RESTful [documentation](https://documenter.getpostman.com/view/30630269/2s9YRB1Bif).
